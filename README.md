@@ -10,8 +10,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Repositório](https://your-solution-url.com)
-- Live Site URL: [Demo](https://your-live-site-url.com)
+- Solution URL: [Repositório](https://github.com/giovanna-mrosa/frontendMentor-fourCardFeature)
+- Live Site URL: [Demo](https://giovanna-mrosa.github.io/frontendMentor-fourCardFeature/)
 
 ### Built with
 
